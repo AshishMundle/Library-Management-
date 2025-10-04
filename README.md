@@ -135,6 +135,8 @@ CREATE TABLE return_status
 
 ## 4. Data Analysis & Findings
 
+**Task 7: Retrieve All Books in a Specific Category:**
+
 **Task 8: Find Total Rental Income by Category**:
 
 **Task 9: List Members Who Registered in the Last 180 Days**:
@@ -163,8 +165,7 @@ Use the CREATE TABLE AS (CTAS) statement to create a new table active_members co
 Write a query to find the top 3 employees who have processed the most book issues. Display the employee name, number of books processed, and their branch.
 
 **Task 18: Identify Members Issuing High-Risk Books**  
-Write a query to identify members who have issued books more than twice with the status "damaged" in the books table. Display the member name, book title, and the number of times they've issued damaged books.    
-
+Write a query to identify members who have issued books more than twice with the status "damaged" in the books table. Display the member name, book title, and the number of times they've issued damaged books. 
 
 **Task 19: Stored Procedure**
 Objective:
