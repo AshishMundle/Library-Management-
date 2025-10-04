@@ -19,7 +19,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ## Project Structure
 
-### 1. Database Setup
+## 1. Database Setup
 ![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
 
 - **Database Creation**: Created a database named `library_db`.
@@ -109,7 +109,7 @@ CREATE TABLE return_status
 
 ```
 
-### 2. CRUD Operations
+## 2. CRUD Operations
 
 - **Create**: Inserted sample records into the `books` table.
 - **Read**: Retrieved and displayed data from various tables.
@@ -130,19 +130,20 @@ CREATE TABLE return_status
 **Task 5: List Members Who Have Issued More Than One Book**
 -- Objective: Use GROUP BY to find members who have issued more than one book.
 
-### 3. CTAS (Create Table As Select)
+## 3. CTAS (Create Table As Select)
+**Task 6: Create Summary Tables: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt**
 
-### 4. Data Analysis & Findings
+## 4. Data Analysis & Findings
 
-8. **Task 8: Find Total Rental Income by Category**:
+**Task 8: Find Total Rental Income by Category**:
 
-9. **List Members Who Registered in the Last 180 Days**:
+**Task 9: List Members Who Registered in the Last 180 Days**:
 
-10. **List Employees with Their Branch Manager's Name and their branch details**:
+**Task 10: List Employees with Their Branch Manager's Name and their branch details**:
     
-11. **Create a Table of Books with Rental Price Above a Certain Threshold**:
+**Task 11: Create a Table of Books with Rental Price Above a Certain Threshold**:
 
-Task 12: **Retrieve the List of Books Not Yet Returned**
+**Task 12: Retrieve the List of Books Not Yet Returned**
 
 ## Advanced SQL Operations
 
